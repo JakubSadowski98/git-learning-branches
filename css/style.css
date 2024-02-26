@@ -1,5 +1,9 @@
-h1 {
-	background-color: lightgrey;
+.all-view {
+	font-size: 18px;
+}
+
+.song-title {
+	background-color: lightblue;
 }
 
 
